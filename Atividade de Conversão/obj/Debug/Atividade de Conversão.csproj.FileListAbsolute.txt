@@ -1,0 +1,13 @@
+C:\Users\aluno\Desktop\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 3\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 3\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Atividade de Conversão\bin\Debug\Atividade de Conversão.exe.config
+C:\Users\aluno\Downloads\Atividade de Conversão\bin\Debug\Atividade de Conversão.exe
+C:\Users\aluno\Downloads\Atividade de Conversão\bin\Debug\Atividade de Conversão.pdb
+C:\Users\aluno\Downloads\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Downloads\Atividade de Conversão\obj\Debug\Atividade de Conversão.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\Atividade de Conversão\obj\Debug\Atividade de Conversão.exe
+C:\Users\aluno\Downloads\Atividade de Conversão\obj\Debug\Atividade de Conversão.pdb
