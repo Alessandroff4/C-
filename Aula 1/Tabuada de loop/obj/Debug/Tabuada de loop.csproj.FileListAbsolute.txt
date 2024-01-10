@@ -1,0 +1,9 @@
+C:\Users\USUARIO\Desktop\Tabuada de loop\obj\Debug\Tabuada de loop.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Tabuada de loop\obj\Debug\Tabuada de loop.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\obj\Debug\Tabuada de loop.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\obj\Debug\Tabuada de loop.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\bin\Debug\Tabuada de loop.exe.config
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\bin\Debug\Tabuada de loop.exe
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\bin\Debug\Tabuada de loop.pdb
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\obj\Debug\Tabuada de loop.exe
+C:\Users\USUARIO\Desktop\C#-Alessandro\C#\Aula 1\Tabuada de loop\obj\Debug\Tabuada de loop.pdb
