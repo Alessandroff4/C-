@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Atividade Jogadores\bin\Debug\Atividade Jogadores.exe.config
+C:\Users\aluno\Desktop\Atividade Jogadores\bin\Debug\Atividade Jogadores.exe
+C:\Users\aluno\Desktop\Atividade Jogadores\bin\Debug\Atividade Jogadores.pdb
+C:\Users\aluno\Desktop\Atividade Jogadores\obj\Debug\Atividade Jogadores.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Atividade Jogadores\obj\Debug\Atividade Jogadores.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Atividade Jogadores\obj\Debug\Atividade Jogadores.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Atividade Jogadores\obj\Debug\Atividade Jogadores.exe
+C:\Users\aluno\Desktop\Atividade Jogadores\obj\Debug\Atividade Jogadores.pdb
