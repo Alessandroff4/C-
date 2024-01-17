@@ -1,0 +1,25 @@
+		Exercicos em sala
+// ele cria um loop for de 0 ate mais de 10 com um incremento de 2
+// i++ = a +2
+// o loop vai con tinuar infinitamente com numeros pares
+for (int = 0; i < 10; i++)
+{
+	Console.WriteLine(array(i));
+}
+
+
+//  cria um loop while que continuará executando enquanto a condição i < 10 for verdadeira. Isso significa que o loop continuará enquanto o valor de i for menor que 10
+int i = 0
+while (i < 10)
+{
+	Console.WriteLine(array(i));
+	i++;
+}
+
+
+// cria um loop foreach que percorre todos os elementos do array chamado array. A variável x é uma variável temporária que recebe cada elemento do array durante cada iteração.
+
+foreach (int x in array)
+{
+	Console.WriteLine(x);
+}

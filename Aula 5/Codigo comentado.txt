@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+//  Cria um array chamado pilotos com os elementos declaradas que são os nomes de alguns pilotos famosos.
+            string[] pilotos = new string[4] { " Ayrton Senna", "Michael Schumacher", "Lewis Hamilton", "Alain Prost" };
+
+// Imprime no console o conteúdo do elemento no índice 3 do array pilotos. Neste caso, o nome "Alain Prost" será impresso.            
+            Console.WriteLine(pilotos[3]);
+            Console.WriteLine();
+
+// essa linha esta subistituindo 3 terceiro que foi declarado como primeiro na parte de cima.    
+            pilotos[3] = "Rubens Barrichello";
+
+// Inicia um loop foreach que percorre todos os elementos do array pilotos. A cada iteração, o valor do elemento atual é atribuído à variável temporária piloto.            
+            foreach (string piloto in pilotos)
+            {
+                Console.WriteLine(piloto);
+            }
+
+// foi acresentado Console.ReadLine(); para ser apresentado o codigo em tela            
+            Console.ReadLine();
+        }
+    }
+}
