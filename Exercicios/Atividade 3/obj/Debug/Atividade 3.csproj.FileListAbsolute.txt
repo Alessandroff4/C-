@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\bin\Debug\Atividade 3.exe.config
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\bin\Debug\Atividade 3.exe
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\bin\Debug\Atividade 3.pdb
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\obj\Debug\Atividade 3.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\obj\Debug\Atividade 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\obj\Debug\Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\obj\Debug\Atividade 3.exe
+C:\Users\aluno\Desktop\Exercicios\Atividade 3\obj\Debug\Atividade 3.pdb

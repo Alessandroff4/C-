@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\bin\Debug\Atividade 2.exe.config
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\bin\Debug\Atividade 2.exe
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\bin\Debug\Atividade 2.pdb
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\obj\Debug\Atividade 2.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\obj\Debug\Atividade 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\obj\Debug\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\obj\Debug\Atividade 2.exe
+C:\Users\aluno\Desktop\Exercicios\Atividade 2\obj\Debug\Atividade 2.pdb
