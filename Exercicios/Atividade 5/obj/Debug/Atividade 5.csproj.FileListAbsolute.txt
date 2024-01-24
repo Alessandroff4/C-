@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\bin\Debug\Atividade 5.exe.config
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\bin\Debug\Atividade 5.exe
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\bin\Debug\Atividade 5.pdb
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\obj\Debug\Atividade 5.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\obj\Debug\Atividade 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\obj\Debug\Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\obj\Debug\Atividade 5.exe
+C:\Users\aluno\Desktop\Exercicios\Atividade 5\obj\Debug\Atividade 5.pdb
